@@ -1,0 +1,21 @@
+body {
+  font-family: sans-serif;
+}
+
+.holder{
+  background-color: red;
+  margin-bottom: 3rem;
+}
+
+.ipost {
+  background-color: blue;
+  margin-bottom: 1rem;
+  padding: 1rem;
+  border-bottom: 1px solid green;
+  
+}
+.ipost h1{
+  color: red;
+  background-color: green;
+  margin-bottom: 3rem;
+}
